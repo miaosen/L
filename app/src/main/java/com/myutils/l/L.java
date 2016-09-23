@@ -9,7 +9,6 @@ import org.json.JSONObject;
 /**
  * @author zengmiaosen
  * @email 1510809124@qq.com
- * @git http://git.oschina.net/miaosen/MyUtils
  * @CreateDate 2016/9/22 1:39
  * @Descrition 日志打印
  */
